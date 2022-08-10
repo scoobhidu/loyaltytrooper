@@ -13,7 +13,7 @@
       <img src="" alt="this slowpoke moves" />
     </td>
 
- <img align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" width="500" height="320" />
+ <img align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" />
 
 
 ## I'm a Wife, Mother, Developer, Creator, and Mentor!!
