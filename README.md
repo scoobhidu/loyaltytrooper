@@ -16,25 +16,17 @@
 
 <br/>
 
-### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
-[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
-
-<br />
-<br />
-
 ### My Bucket List:
 - 🥲 DSA(C++)
 - 📱 Kotlin
--    Swift
+- 💸 Swift
 - 🧠 Machine Learning(Python and R)
--    FastApi
--    Flask
--    Go
--    Figma
--    GraphQL
--    SpringBoot
+- ⏩ FastApi
+- ⚗️ Flask
+- 🚀 Go
+- 🍥 Figma
+- 📈 GraphQL
+- 🥾 SpringBoot
 - 🚧 Creating some resume-level projects
 - 🐱‍💻 1 Group Project 
 - 🖥️ Participating in Hackathons
@@ -49,22 +41,31 @@
   </a>
 </p>
 
-<br />
+<br/>
 
 ![snake gif](https://github.com/loyaltytrooper/loyaltytrooper/blob/output/github-contribution-grid-snake.svg)
 
-<br />
+<br/>
 
 <h4>:zap: GitHub Stats</h4>
 
   [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyaltytrooper&count_private=true&show_icons=true&theme=radical)](https://github.com/loyaltytrooper/github-readme-stats)
 
-<br />
+<br/>
 
 <h4>:zap: Most Used Languages</h4>
 
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=loyaltytrooper&layout=compact&theme=radical)
 
+<br/>
+
+### Talk with me, I am kinda awesome:
+[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
+
+<br />
+<br />
 [twitter]: https://www.twitter.com/loyaltytrooper/
 [linkedin]: https://linkedin.com/in/rajat-dev
 [gmail]: mailto:loyaltytrooper@gmail.com
