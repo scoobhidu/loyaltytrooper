@@ -53,14 +53,14 @@
 <br />
 
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary><h4>:zap: GitHub Stats</h4></summary>
 
   [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyaltytrooper&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/loyaltytrooper/github-readme-stats)
 
 </details>
 
 <details>
-  <summary>:zap: Most Used Languages</summary>
+  <summary><h4>:zap: Most Used Languages</h4></summary>
 
 <img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
 
