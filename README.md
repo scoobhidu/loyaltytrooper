@@ -1,4 +1,4 @@
-[![Banner for loyaltytrooper]([https://i.imgur.com/50NA7vr.gif](https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif))](https://www.linkedin.com/in/rajat-dev)
+[![Banner for loyaltytrooper](https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif)](https://www.linkedin.com/in/rajat-dev)
 
 <h1>Hi there 👋</h1>
 
