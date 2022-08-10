@@ -1,7 +1,8 @@
-[![Banner for loyaltytrooper](https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif)](https://www.linkedin.com/in/rajat-dev)
+
 
 <h1>Hi there 👋</h1>
 
+[![Banner for loyaltytrooper](https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif)](https://www.linkedin.com/in/rajat-dev)
 <!--
 **loyaltytrooper/loyaltytrooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
