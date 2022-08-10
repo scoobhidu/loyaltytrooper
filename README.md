@@ -55,7 +55,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyaltytrooper&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/loyaltytrooper/github-readme-stats)
+  [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyaltytrooper&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/loyaltytrooper/github-readme-stats)
 
 </details>
 
