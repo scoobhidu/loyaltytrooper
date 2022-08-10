@@ -10,7 +10,7 @@
       <h4> I am Rajat, a 19 year old B.Tech.(CSE) student from <a href="">MAIT, Delhi</a> living in Delhi, India </h4>
     </td>
     <td>
-      <img src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" alt="this slowpoke moves"  width="250" />
+      <img src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" alt="this slowpoke moves" />
     </td>
       
 <!--
