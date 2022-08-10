@@ -47,18 +47,15 @@
 </p>
 
 <br />
----
 
 ![snake gif](https://github.com/loyaltytrooper/loyaltytrooper/blob/output/github-contribution-grid-snake.svg)
 
 <br />
----
-
 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyaltytrooper)](https://github.com/loyaltytrooper/github-readme-stats)
+  [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyaltytrooper&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/loyaltytrooper/github-readme-stats)
 
 </details>
 
