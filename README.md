@@ -52,6 +52,12 @@
 <br />
 ---
 
+![snake gif](https://github.com/loyaltytrooper/loyaltytrooper/blob/output/github-contribution-grid-snake.gif)
+
+<br />
+---
+
+
 <details>
   <summary>:zap: GitHub Stats</summary>
 
