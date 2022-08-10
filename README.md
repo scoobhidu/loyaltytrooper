@@ -4,7 +4,15 @@
 
 <h1>Hi there 👋</h1>
 
-[![Banner for loyaltytrooper](https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif)](https://www.linkedin.com/in/rajat-dev)
+<table>
+  <tr>
+    <td>
+      <h4> I am Rajat, a 19 year old B.Tech.(CSE) student from <a href="">MAIT, Delhi</a> living in Delhi, India </h4>
+    </td>
+    <td>
+      [![Banner for loyaltytrooper](https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif)](https://www.linkedin.com/in/rajat-dev)
+    </td>
+      
 <!--
 **loyaltytrooper/loyaltytrooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
