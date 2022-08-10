@@ -62,7 +62,7 @@
 <details>
   <summary><h4>:zap: Most Used Languages</h4></summary>
 
-<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsentieva" />
+  [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=loyaltytrooper&layout=compact&theme=radical)]
 
 </details>
 
