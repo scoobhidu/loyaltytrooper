@@ -17,8 +17,9 @@
 <br/>
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
 
 <br />
 
@@ -53,20 +54,16 @@
 
 <br />
 
-<details>
-  <summary><h4>:zap: GitHub Stats</h4></summary>
+<h4>:zap: GitHub Stats</h4>
 
   [![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyaltytrooper&count_private=true&show_icons=true&theme=radical)](https://github.com/loyaltytrooper/github-readme-stats)
 
-</details>
+<br />
 
-<details>
-  <summary><h4>:zap: Most Used Languages</h4></summary>
+<h4>:zap: Most Used Languages</h4>
 
   ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=loyaltytrooper&layout=compact&theme=radical)
 
-</details>
-
-[instagram]: https://www.instagram.com/loyaltytrooper/
+[twitter]: https://www.twitter.com/loyaltytrooper/
 [linkedin]: https://linkedin.com/in/rajat-dev
-[gmail]: loyaltytrooper@gmail.com
+[gmail]: mailto:loyaltytrooper@gmail.com
