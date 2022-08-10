@@ -7,7 +7,7 @@
 <img align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" />
 
 
-## I'm Rajat Kumar a Student, Developer and Learner
+## I'm Rajat - a Student, Developer and Learner
 - ✍ B.Tech. student at Maharaja Agrasen Institute of Technology, Delhi, India
 - 🔭 I’m currently working as a flutter intern at Ventura Securities
 - 🌱 I’m currently learning Machine Learning with Python and R
