@@ -18,6 +18,7 @@
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 
 <br />
 
@@ -62,12 +63,10 @@
 <details>
   <summary><h4>:zap: Most Used Languages</h4></summary>
 
-  [![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=loyaltytrooper&layout=compact&theme=radical)]
+  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=loyaltytrooper&layout=compact&theme=radical)
 
 </details>
 
-[website]: https://holistic-developer.com/
-[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw
-[instagram]: https://www.instagram.com/holistic_developer/
-[linkedin]: https://linkedin.com/in/annaarsentieva
-[portfolio]: https://arsentieva.github.io/profile/
+[instagram]: https://www.instagram.com/loyaltytrooper/
+[linkedin]: https://linkedin.com/in/rajat-dev
+[gmail]: loyaltytrooper@gmail.com
