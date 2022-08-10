@@ -17,7 +17,7 @@
 <br/>
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="[[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://icons8.com/icon/13930/linkedin)]" />][linkedin]
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://icons8.com/icon/13930/linkedin)" />][linkedin]
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="[https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg](https://icons8.com/icon/P7UIlhbpWzZm/gmail)" />][gmail]
 
 <br />
