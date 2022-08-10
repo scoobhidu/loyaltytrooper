@@ -8,7 +8,7 @@
 
 
 ## I'm Rajat - a Student, Developer and Learner
-- ✍ B.Tech. student at Maharaja Agrasen Institute of Technology, Delhi, India
+- ✍ B.Tech.(CSE) student at Maharaja Agrasen Institute of Technology, Delhi, India
 - 🔭 I’m currently working as a flutter intern at Ventura Securities
 - 🌱 I’m currently learning Machine Learning with Python and R
 - 👯 I’m looking to collaborate on open source
