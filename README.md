@@ -42,7 +42,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,firebase,flutter,py,pytorch,tensorflow,git,gcp,kubernetes,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,firebase,flutter,js,py,pytorch,tensorflow,git,gcp,kubernetes,docker,linux" />
   </a>
 </p>
 
