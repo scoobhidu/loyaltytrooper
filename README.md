@@ -22,6 +22,7 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
 
 <br />
+<br />
 
 ### My Bucket List:
 - 🥲 DSA(C++)
