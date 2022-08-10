@@ -7,10 +7,10 @@
 <table>
   <tr>
     <td>
-      <h4> I am Rajat, a 19 year old B.Tech.(CSE) student from <a href="https://mait.ac.in/">MAIT</a> living in Delhi, India </h4>
+      <h4> I am Rajat, a 19 year old B.Tech.(CSE) student from <a href="">MAIT, Delhi</a> living in Delhi, India </h4>
     </td>
     <td>
-      [![Banner for loyaltytrooper](https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif)](https://www.linkedin.com/in/rajat-dev)
+      <img src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" alt="this slowpoke moves"  width="100" />
     </td>
       
 <!--
