@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/githubBanner.png" width="100"/>
+  <img src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/githubBanner.png"/>
 </div>
 
 <h1>Hi there 👋</h1>
