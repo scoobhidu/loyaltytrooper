@@ -65,7 +65,6 @@
 [<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
 
 <br />
-<br />
 [twitter]: https://www.twitter.com/loyaltytrooper/
 [linkedin]: https://linkedin.com/in/rajat-dev
-[gmail]: mailto:loyaltytrooper@gmail.com
+[gmail]: mailto:loyaltytrooper@gmail.com?Subject=New%20Opportunity%20from%20Github%20Viewer&Body=Hi
