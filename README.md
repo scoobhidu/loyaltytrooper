@@ -4,39 +4,32 @@
 
 <h1>Hi there 👋</h1>
 
-<table style="border-style: none">
-  <tr>
-    <td>
-      <h4> I am Rajat, a 19 year old B.Tech.(CSE) student from <a href="">MAIT, Delhi</a> living in Delhi, India </h4>
-    </td>
-    <td>
-      <img src="" alt="this slowpoke moves" />
-    </td>
-
- <img align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" />
+<img align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" />
 
 
-## I'm Rajat Kumar a student, developer and learner
+## I'm Rajat Kumar a Student, Developer and Learner
 - ✍ B.Tech. student at Maharaja Agrasen Institute of Technology, Delhi, India
 - 🔭 I’m currently working as a flutter intern at Ventura Securities
 - 🌱 I’m currently learning Machine Learning with Python and R
 - 👯 I’m looking to collaborate on open source
 - ⚡ Really like playing BasketBall and Badminton
 
+<br/>
 
 ### Talk with me, I am kinda awesome:
 [<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-### My Bucket List
--  DSA(C++)
--  Kotlin
--  Machine Learning(Python and R)
--  Creating some resume-level projects
--  1 Group Project 
--  Participating in Hackathons
+### My Bucket List:
+- 🥲 DSA(C++)
+- 📱 Kotlin
+- 🧠 Machine Learning(Python and R)
+- 🚧 Creating some resume-level projects
+- 🐱‍💻 1 Group Project 
+- 🖥️ Participating in Hackathons
     
-<br />
+<br/>
+
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][youtube]
@@ -55,7 +48,6 @@
 [<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />][youtube]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][youtube]
 
-<br />
 <br />
 ---
 
