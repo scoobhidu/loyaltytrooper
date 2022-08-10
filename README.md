@@ -16,6 +16,16 @@
 
 <br/>
 
+### Languages and Tools:
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,firebase,flutter,js,py,pytorch,tensorflow,git,gcp,kubernetes,docker,linux" />
+  </a>
+</p>
+
+<br/>
+
 ### My Bucket List:
 - 🥲 DSA(C++)
 - 📱 Kotlin
@@ -31,16 +41,6 @@
 - 🐱‍💻 1 Group Project 
 - 🖥️ Participating in Hackathons
     
-<br/>
-
-### Languages and Tools:
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,firebase,flutter,js,py,pytorch,tensorflow,git,gcp,kubernetes,docker,linux" />
-  </a>
-</p>
-
 <br/>
 
 ![snake gif](https://github.com/loyaltytrooper/loyaltytrooper/blob/output/github-contribution-grid-snake.svg)
