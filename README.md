@@ -1,6 +1,6 @@
-### Hi there 👋
+[![Banner for loyaltytrooper](https://i.imgur.com/50NA7vr.gif)](https://www.linkedin.com/in/rajat-dev)
 
-<iframe src="https://giphy.com/embed/13HgwGsXF0aiGY" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<h1>Hi there 👋</h1>
 
 <!--
 **loyaltytrooper/loyaltytrooper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
