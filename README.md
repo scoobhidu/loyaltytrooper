@@ -60,11 +60,6 @@
 <br/>
 
 ### Talk with me, I am kinda awesome:
-[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" />][twitter]
-[<img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/gmail-new.png" />][gmail]
-
-<br />
-[twitter]: https://www.twitter.com/loyaltytrooper/
-[linkedin]: https://linkedin.com/in/rajat-dev
-[gmail]: mailto:loyaltytrooper@gmail.com?Subject=New%20Opportunity%20from%20Github%20Viewer&Body=Hi
+<a href="https://linkedin.com/in/rajat-dev"><img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+<a href="https://linkedin.com/in/rajat-dev"><img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a>
+<a href="mailto:loyaltytrooper@gmail.com?Subject=New%20Opportunity%20from%20Github%20Viewer&Body=Hi"><img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
