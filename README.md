@@ -61,5 +61,5 @@
 
 ### Talk with me, I am kinda awesome:
 <a href="https://linkedin.com/in/rajat-dev"><img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
-<a href="https://linkedin.com/in/rajat-dev"><img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a>
+<a href="https://twitter.com/loyaltytrooper"><img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a>
 <a href="mailto:loyaltytrooper@gmail.com?Subject=New%20Opportunity%20from%20Github%20Viewer&Body=Hi"><img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
