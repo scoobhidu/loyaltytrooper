@@ -4,7 +4,7 @@
 
 <h1>Hi there 👋</h1>
 
-<table rules=none>
+<table style="border-collapse: collapse">
   <tr>
     <td>
       <h4> I am Rajat, a 19 year old B.Tech.(CSE) student from <a href="">MAIT, Delhi</a> living in Delhi, India </h4>
