@@ -32,14 +32,22 @@
 - 💸 Swift
 - 🧠 Machine Learning(Python and R)
 - ⏩ FastApi
+-    Apache Kafka
+-    PostgreSQL
+-    Oracle Database
+-    SQL
+-    Rest APIs
+-    Software Design Patterns
+-    Java
 - ⚗️ Flask
 - 🚀 Go
 - 🍥 Figma
 - 📈 GraphQL
-- 🥾 SpringBoot
+- 🥾 Spring Boot
 - 🚧 Creating some resume-level projects
 - 🐱‍💻 1 Group Project 
 - 🖥️ Participating in Hackathons
+-   Competitive Programming
     
 <br/>
 
