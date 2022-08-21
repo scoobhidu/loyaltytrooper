@@ -32,6 +32,7 @@
 - 📈 GraphQL
 - 🥾 Spring Boot
 - 🚀 Go
+-    DevOps(Advanced)
 -    SQL
 -    Creating own Rest APIs
 -    Software Design Patterns
