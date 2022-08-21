@@ -29,24 +29,23 @@
 ### My Bucket List:
 - 🥲 DSA(C++)
 - 📱 Kotlin
-- 💸 Swift
-- 🧠 Machine Learning(Python and R)
-- ⏩ FastApi
--    Apache Kafka
--    PostgreSQL
--    Oracle Database
--    SQL
--    Rest APIs
--    Software Design Patterns
--    Java
-- ⚗️ Flask
-- 🚀 Go
-- 🍥 Figma
 - 📈 GraphQL
 - 🥾 Spring Boot
+- 🚀 Go
+-    SQL
+-    Creating own Rest APIs
+-    Software Design Patterns
+- ⏩ FastApi
+-    PostgreSQL
+-    Oracle Database
+-    Java
+- ⚗️ Flask
+- 🍥 Figma
 - 🚧 Creating some resume-level projects
 - 🐱‍💻 1 Group Project 
 - 🖥️ Participating in Hackathons
+-    Apache Kafka
+- 💸 Swift
 -   Competitive Programming
     
 <br/>
