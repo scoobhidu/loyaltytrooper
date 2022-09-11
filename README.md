@@ -29,18 +29,14 @@
 
 ### My Bucket List:
 - 🥲 DSA(C++)
-- 📱 Kotlin
 - 📈 GraphQL
 - 🥾 Spring Boot
 - 🚀 Go
 -    DevOps(Advanced)
 -    SQL
--    Creating own Rest APIs
 -    Software Design Patterns
 - ⏩ FastApi
 -    PostgreSQL
--    Oracle Database
--    Java
 - ⚗️ Flask
 - 🍥 Figma
 - 🚧 Creating some resume-level projects
