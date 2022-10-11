@@ -7,13 +7,11 @@
 <img align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" />
 
 
-## I'm Rajat - a Student, Developer and Learner
+## I'm Rajat - A Developer
 - 🔭 I’m currently working as a Flutter Intern at Ventura Securities
 - 📱 Flutter Developer at Google Developers Student Club (GDSC-MAIT)
 - ✍ B.Tech.(CSE) student at Maharaja Agrasen Institute of Technology, Delhi, India
-- 🌱 I’m currently learning Machine Learning with Python and R
 - 👯 I’m looking to collaborate on open source
-- ⚡ Really like playing BasketBall and Badminton
 
 <br/>
 
