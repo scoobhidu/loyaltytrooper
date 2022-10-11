@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,firebase,flutter,js,py,pytorch,tensorflow,git,gcp,kubernetes,docker,linux" />
+    <img src="https://skillicons.dev/icons?i=cpp,flutter,go,js,py,git,gcp,kubernetes,docker,linux,firebase,sql" />
   </a>
 </p>
 
@@ -31,19 +31,12 @@
 - 🥲 DSA(C++)
 - 📈 GraphQL
 - 🥾 Spring Boot
-- 🚀 Go
 -    DevOps(Advanced)
--    SQL
 -    Software Design Patterns
 - ⏩ FastApi
--    PostgreSQL
 - ⚗️ Flask
 - 🍥 Figma
-- 🚧 Creating some resume-level projects
-- 🐱‍💻 1 Group Project 
-- 🖥️ Participating in Hackathons
 -    Apache Kafka
-- 💸 Swift
 -   Competitive Programming
     
 <br/>
