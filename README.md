@@ -28,7 +28,6 @@
 <br/>
 
 ### My Bucket List:
-- 🥲 DSA(C++)
 - 📈 GraphQL
 - 🥾 Spring Boot
 -    DevOps(Advanced)
@@ -37,7 +36,6 @@
 - ⚗️ Flask
 - 🍥 Figma
 -    Apache Kafka
--   Competitive Programming
     
 <br/>
 
