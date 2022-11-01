@@ -25,19 +25,6 @@
 
 <br/>
 
-### My Bucket List:
-- 📈 GraphQL
-- 🥾 Spring Boot
--    DevOps(Advanced)
--    Software Design Patterns
-- ⏩ FastApi
-- ⚗️ Flask
-- 🍥 Figma
--    Apache Kafka
-    
-<br/>
-
-
 ### Talk with me, I am kinda awesome:
 <a href="https://linkedin.com/in/rajat-dev"><img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 <a href="https://twitter.com/loyaltytrooper"><img align="left" alt="holisitc_developer | LinkedIn" width="42px" src="https://img.icons8.com/color/48/000000/twitter--v2.png" /></a>
