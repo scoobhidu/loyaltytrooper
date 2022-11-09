@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,flutter,go,js,py,git,gcp,kubernetes,docker,linux,firebase,sql" />
+    <img src="https://skillicons.dev/icons?i=cpp,flutter,go,git,gcp,kubernetes,docker,linux,firebase,sql,postgres,mongodb" />
   </a>
 </p>
 
