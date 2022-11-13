@@ -42,6 +42,6 @@
 
 <h4>:zap: Most Used Languages</h4>
 
-  ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=loyaltytrooper&layout=compact&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loyaltytrooper&theme=radical)
 
 <br/>
