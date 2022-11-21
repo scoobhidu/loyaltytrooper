@@ -9,7 +9,7 @@
 
 ## I'm Rajat - A Developer
 - Looking for roles in backend development(for go/golang if possible)
-- 🔭 I’m currently working as a Flutter Intern at Ventura Securities
+- 🔭 I’m currently working as a Frontend Intern at Ventura Securities
 - 📱 Flutter Developer at Google Developers Student Club (GDSC-MAIT)
 - ✍ B.Tech.(CSE) student at Maharaja Agrasen Institute of Technology, Delhi, India
 - 👯 I’m looking to collaborate on open source
