@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/githubBanner.png"/>
+  <img src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/profileBanner.png"/>
 </div>
 
 <h1>Hi there 👋</h1>
@@ -8,6 +8,7 @@
 
 
 ## I'm Rajat - A Developer
+- Looking for roles in backend development(for go/golang if possible)
 - 🔭 I’m currently working as a Flutter Intern at Ventura Securities
 - 📱 Flutter Developer at Google Developers Student Club (GDSC-MAIT)
 - ✍ B.Tech.(CSE) student at Maharaja Agrasen Institute of Technology, Delhi, India
