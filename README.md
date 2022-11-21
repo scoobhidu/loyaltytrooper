@@ -4,7 +4,7 @@
 
 <h1>Hi there 👋</h1>
 
-<img width="500" align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" />
+<img width="300" align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" />
 
 
 ## I'm Rajat - A Developer
