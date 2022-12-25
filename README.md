@@ -8,9 +8,10 @@
 
 
 ## I'm Rajat - A Developer
-- Looking for roles in backend development(for go/golang if possible)
+- Looking for roles in backend development(for go/golang/C++/NodeJS if possible)
 - 🔭 I’m currently working as a Frontend Intern at Ventura Securities
-- 📱 Flutter Developer at Google Developers Student Club (GDSC-MAIT)
+- 📱  Flutter Developer at Google Developers Student Club (GDSC-MAIT)
+- 🏆 Hack With MAIT 3.0 winner
 - ✍ B.Tech.(CSE) student at Maharaja Agrasen Institute of Technology, Delhi, India
 - 👯 I’m looking to collaborate on open source
 
