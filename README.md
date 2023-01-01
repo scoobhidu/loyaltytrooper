@@ -7,8 +7,8 @@
 <img width="300" align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" />
 
 
-## I'm Rajat - A Developer
-- Looking for roles in backend development(for go/golang/C++/NodeJS if possible)
+## I'm Rajat - An App & Backend Developer
+- Looking for roles in backend/app development
 - 🔭 I’m currently working as a Senior Intern at Ventura Securities
 - 📱  Flutter Developer at Google Developers Student Club (GDSC-MAIT)
 - 🏆 Hack With MAIT 3.0 winner
