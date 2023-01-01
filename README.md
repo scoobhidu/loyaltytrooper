@@ -20,9 +20,12 @@
 ### Languages and Tools:
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,flutter,kotlin,swift,git,githubactions,aws,gcp,kubernetes,docker,jenkins,prometheus,grafana,firebase,supabase,nodejs,go,php,laravel,rust,graphql,redis,mysql,postgres,mongodb,nginx" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=cpp,flutter,git,aws,gcp,docker,firebase,supabase,nodejs,go,graphql,redis,mysql,postgres,mongodb" />
+</p>
+
+
+<p align="center">
+    Bucket List: <img src="https://skillicons.dev/icons?i=kotlin,swift,githubactions,kubernetes,jenkins,prometheus,grafana,php,laravel,rust,nginx,dynamodb", RDS />
 </p>
 
 <br/>
