@@ -25,7 +25,7 @@
 
 
 <p align="center">
-    Bucket List: <img src="https://skillicons.dev/icons?i=kotlin,swift,githubactions,kubernetes,jenkins,prometheus,grafana,php,laravel,rust,nginx,dynamodb", RDS />
+    Bucket List: <img src="https://skillicons.dev/icons?i=kotlin,swift,githubactions,kubernetes,jenkins,prometheus,grafana,reactjs,nextjs,rust,nginx,dynamodb", RDS />
 </p>
 
 <br/>
