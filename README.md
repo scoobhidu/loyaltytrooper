@@ -8,12 +8,11 @@
 
 
 ## I'm Rajat - A Developer
-- 🔭 I’m currently working as a Senior Intern at @Ventura Securities and 
-    Go/Golang backend intern @Zocket
-- 📱  Flutter Developer at Google Developers Student Club (GDSC-MAIT)
+- 👨‍💻 I’m currently working as a Senior Intern at @Ventura Securities (Flutter and C++) 
+- 👨‍💻 I've previously worked as freelance Go/Golang backend developer @Zocket
+- 📱  Flutter Lead at Google Developers Student Club (GDSC-MAIT)
 - 🏆 Hack With MAIT 3.0 winner
 - ✍ B.Tech.(CSE) student at Maharaja Agrasen Institute of Technology, Delhi, India
-- 👯 I’m looking to collaborate on open source
 
 <br/>
 
