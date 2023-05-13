@@ -8,7 +8,7 @@
 
 
 ## I'm Rajat - A Developer
-- 👨‍💻 I’m currently working as a Senior Intern at @Ventura Securities (Flutter App and Web and C++ Low Latency ingestion and system development) 
+- 👨‍💻 I’m currently working as a Senior Intern at @Ventura Securities (Flutter App & Web and C++ Low Latency ingestion and system development) 
 - 👨‍💻 I've previously worked as freelance Go/Golang backend developer @Zocket
 - 📱  ex-Flutter Lead at Google Developers Student Club (GDSC-MAIT 2022-2023)
 - 🏆 Hack With MAIT 3.0 winner
