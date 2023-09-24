@@ -4,8 +4,6 @@
 
 <h1>Hi there 👋</h1>
 
-<img width="300" align="right" alt="GIF" src="https://github.com/loyaltytrooper/loyaltytrooper/blob/main/the-it-crowd-moss-the-it-crowd.gif" />
-
 
 ## I'm Rajat - A Developer
 - 👨‍💻 I’m currently working as a Senior Intern at @Ventura Securities (Flutter App & Web and C++ Low Latency ingestion and system development) 
